@@ -312,7 +312,7 @@
 		grid-template-columns: 1fr;
 	}
 
-	.stat-video .navigation {
+	.navigation {
 		display: none;
 	}
 	.content,
