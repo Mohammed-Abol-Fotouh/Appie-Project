@@ -362,24 +362,48 @@
 	.logo {
 		height: 3rem;
 	}
+
 	.header {
 		gap: 1.8rem;
 	}
 
-	.hero-text-box {
-		padding-right: 3.2rem;
+	.section-hero {
+		padding: 8rem 0 0 6.4rem;
 	}
 
 	.main-nav-link.nav-cta {
 		font-size: 1.8rem;
 	}
 
+	.marketing {
+		margin-bottom: 3.2rem;
+	}
+
 	.section-marketing {
-		padding: 1.8rem;
+		padding: 3.2rem;
 	}
 
 	.marketing-text-box .heading-text {
 		padding: 0;
+	}
+
+	.icon {
+		width: 2.8rem;
+	}
+
+	.video-icon {
+		width: 7rem;
+		height: 7rem;
+	}
+
+	.icon-border {
+		width: 8rem;
+		height: 8rem;
+	}
+
+	.icon-border::after {
+		width: 8.5rem;
+		height: 8.5rem;
 	}
 
 	.app-store {
@@ -389,6 +413,10 @@
 
 	.section-testimonials {
 		padding: 2.4rem;
+	}
+
+	.testimonial-text {
+		font-size: 1.8rem;
 	}
 
 	.platforms {
